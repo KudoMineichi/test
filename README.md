@@ -1,6 +1,7 @@
 # this is test repo.
-#　これはテストレポジトリです
 
-パスワード変更後に消してください。
 
-金子
+change the password before remove this repository. 
+
+Yasuyuki Kaneko
+-
